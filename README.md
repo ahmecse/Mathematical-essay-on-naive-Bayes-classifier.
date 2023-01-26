@@ -14,6 +14,8 @@ This section should outline the key principles underlying naive bayes classifier
 Section 3: Data
 This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). The key task is to determine whether a person makes over $50K a year, adult.csv contains the dataset required to solve the task.
 
+![data features](https://github.com/ahmecse/Mathematical-essay-on-naive-Bayes-classifier./blob/c8e21ee05b436492f6891f88b105c6ad911d3cc5/datasets/Capture.png)
+
 
 Section 4: The problem
 (a)  Outline the problem, and plot/visualize the data.
